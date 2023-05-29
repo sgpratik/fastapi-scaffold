@@ -1,0 +1,11 @@
+{
+  "project_name": "foo_project",
+  "version": 1.0,
+  "tool_name": "Foo Tool",
+  "db_user_name": "seneca",
+  "db_password": "seneca123$",
+  "db_host": "localhost",
+  "db_port": "5432",
+  "db_name": "test_db",
+  "db_driver": "postgresql"
+}
