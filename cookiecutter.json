@@ -8,5 +8,6 @@
   "db_port": "5432",
   "db_name": "test_db",
   "db_driver": "pymysql",
-  "author": "Kumar Pratik"
+  "author": "Kumar Pratik",
+  "repository_remote": "git@github.com:sgpratik/test.git"
 }
